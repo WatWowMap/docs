@@ -2,6 +2,8 @@
 
 <!-- Add info on pulling the creating PR to the code projects. -->
 
+We welcome any and all contributions be it through Github issues, pull requests, documentation updates or general feedback.
+
 ## Contributing to the wiki
 
 The documentation site you're visiting is powered by [Read the Docs]{target=_blank}.

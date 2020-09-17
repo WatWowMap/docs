@@ -7,6 +7,8 @@ title: Home
 
 WatWowMap is a collection of scanner related projects. We current consist of multiple backend and front end applications that are designed to be fast, easy to setup, and high.
 
+Please feel free to join us over in [Discord].
+
 ## [MapJS](/projects/mapjs/)
 
 MapJS is our NodeJS frontend map that combines powerful filtering options to make sure your users are in control of what they want to see.
@@ -18,3 +20,5 @@ Device controller alternative to RealDeviceMap /controler endpoint
 ## DataParser
 
 Raw data parser alternative to RealDeviceMap /raw endpoint.
+
+[Discord]: https://discordapp.com/invite/zZ9h9Xa
