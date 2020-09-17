@@ -1,0 +1,26 @@
+site_name: WatWowMap
+site_url: https://github.com/WatWowMap/docs
+site_description: WatWowMap Documentation
+site_author: versx
+
+repo_url: https://github.com/WatWowMap/docs
+
+theme:
+  name: flatly
+
+nav:
+  - Home: 'index.md'
+  - MapJS: '/projects/mapjs/'
+  - Contributing: contributing.md
+
+markdown_extensions:
+  - toc:
+      permalink: '#'
+      separator: "-"
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+
+plugins:
+    - search
